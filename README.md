@@ -112,4 +112,5 @@ E-Commerce Operations Analyst
 I diagnose delivery delays, dispatch inefficiencies, and inventory mismatches in e-commerce operations and quantify their revenue impact.
  
 LinkedIn: https://www.linkedin.com/in/isamihussaini
+
 Email: hussainimsami@gmail.com
