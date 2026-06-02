@@ -97,7 +97,7 @@ I also built a free browser-based tool that estimates revenue exposure from deli
  
 Four inputs. Instant output. Silent PDF download.
  
-Live tool: [https://isamihussaini.github.io/ecommerce-operations-risk-estimator]
+Live tool: https://isamihussaini.github.io/ecommerce-operations-risk-estimator
  
 Also on ProductHunt: https://www.producthunt.com/products/e-commerce-operations-risk-estimator
  
